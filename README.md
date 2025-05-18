@@ -11,7 +11,9 @@
 ### 💻 TECH_STACK_(2)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) 
 
-
+---
+---
+---
 
 # 🌐SOCIALS / 👤CONTACTS
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nik0Nik0)
