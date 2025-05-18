@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-```pt
+```py
 import = nikoniko.profile
 ```
 
