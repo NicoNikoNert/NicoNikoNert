@@ -1,3 +1,7 @@
+
+<a href="https://github.com/NicoNikoNert"><img src="https://avatars.mds.yandex.net/i?id=319de46b1abd271f493d38ed1af6f0e4_l-5446590-images-thumbs&n=13" width="500" height="100" alt="dog"/></a><br><a href="https://github.com/NicoNikoNert"><img src="https://avatars.mds.yandex.net/i?id=319de46b1abd271f493d38ed1af6f0e4_l-5446590-images-thumbs&n=13" width="50" height="100" alt="dog"/></a><a href="https://github.com/NicoNikoNert"><img src="https://avatars.mds.yandex.net/i?id=319de46b1abd271f493d38ed1af6f0e4_l-5446590-images-thumbs&n=13" width="400" height="100" alt="dog"/></a><a href="https://github.com/NicoNikoNert"><img src="https://avatars.mds.yandex.net/i?id=319de46b1abd271f493d38ed1af6f0e4_l-5446590-images-thumbs&n=13" width="50" height="100" alt="dog"/></a><br><a href="https://github.com/NicoNikoNert"><img src="https://avatars.mds.yandex.net/i?id=319de46b1abd271f493d38ed1af6f0e4_l-5446590-images-thumbs&n=13" width="500" height="100" alt="dog"/></a>
+
+
 # 💻 TECH_STACK
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)]()
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
@@ -9,7 +13,7 @@
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 
 ### 💻 TECH_STACK_(2)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) 
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/ru/products/photoshop.html)
 
 ---
 ---
